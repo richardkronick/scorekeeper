@@ -1,0 +1,19 @@
+.winner{
+    color:green;
+}
+
+.loser{
+    color:red;
+}
+
+.form-control{
+    max-width: 200px;
+}
+
+hr{
+    max-width: 350px;
+}
+
+body{
+    margin-top: 100px;
+}
